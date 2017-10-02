@@ -10,3 +10,7 @@ a:hover {
 h1 {
   font-size: 40px;
 }
+
+.bears > li {
+  display: inline-block;
+}
