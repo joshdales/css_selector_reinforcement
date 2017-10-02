@@ -5,3 +5,8 @@ p {
 a:hover {
   color: green;
 }
+
+
+h1 {
+  font-size: 40px;
+}
